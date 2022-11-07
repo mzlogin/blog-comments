@@ -1,3 +1,8 @@
 {
-    "defaultCommentOrder": "newest"
+    "defaultCommentOrder": "newest",
+    "originsRegex": [
+        "http://localhost:[0-9]+",
+        "https://mazhuang.org",
+        "https://.*\\.mazhuang.org"
+    ]
 }
